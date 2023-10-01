@@ -4,7 +4,7 @@
 #include <random>
 
 // Define the DLL name
-#define DLL_NAME "Osiris.dll"
+#define DLL_NAME "MY_DLL_NAME.dll"
 #define NUM_BYTES 5
 
 DWORD GetProcessID(const char* processName)
